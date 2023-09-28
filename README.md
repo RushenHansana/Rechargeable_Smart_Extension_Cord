@@ -1,4 +1,4 @@
-# -Rechargeable-smart-extension-cord-
+# -Rechargeable-smart-extension-cord
 
 I am excited to share with you our recent project which involved designing a rechargeable smart extension cord. This extension cord functions like a normal one when electricity is available but during power outages, it allows the use of low power consuming devices. One of the unique features of this project is the inclusion of a touch switch that we designed to resist power shocks while using damp hands. Touch switches also offer the advantage of being user-friendly and easy to operate. With a simple touch, the switch can be turned on or off, making it a convenient solution for individuals of all ages and abilities. Through this project, we gained hands-on experience with solid state relays, which helped us overcome some of the technical issues we encountered. Overall, this project was a great opportunity for us to apply our engineering skills to a practical problem and we are proud of what we achieved.
 #experience #engineering #project #teamwork
